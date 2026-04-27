@@ -1,0 +1,24 @@
+{
+  "name": "projeto-devops-ads",
+  "version": "1.0.0",
+  "description": "Atividades formativas DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeloM05/projeto-devops-ads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MeloM05/projeto-devops-ads/issues"
+  },
+  "homepage": "https://github.com/MeloM05/projeto-devops-ads#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
